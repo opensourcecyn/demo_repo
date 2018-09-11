@@ -7,6 +7,6 @@ def hello_world():
     return 'Hello, World!'
 
 
-@app.route('/hello_world2')
-def hello_world2():
-    return 'Hello, World!'
+@app.route('/goodbye_world')
+def goodbye_world():
+    return 'goodbye, World!'
