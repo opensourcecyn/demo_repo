@@ -1,0 +1,57 @@
+'solo git'
+Commands
+    git init
+        add
+        reset
+        stash
+        commit
+
+        log
+        branch
+        checkout
+        show
+        diff
+
+    Vocab:
+        repo
+        branch
+        commit
+        HEAD
+        history
+
+'team git'
+    fetch
+    merge
+    rebase
+    remote
+    pull
+    push
+
+    Vocab:
+        remote
+        source
+        upstream
+        github / bitbucket
+        pull request/PR
+
+'advanced git'
+    cherry pick
+    interactive add
+    interactive rebase
+    reflog
+    merge/rebase debate
+
+    workflows - Atlassian has a good demo
+        https://www.atlassian.com/git/tutorials/comparing-workflows
+
+    bisect
+    blame
+    apply
+    clone
+    gitignore
+
+    hub repos
+    `recovery`
+
+    Atlassian Tutorial
+        https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
