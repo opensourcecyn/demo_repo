@@ -37,8 +37,8 @@ Commands
 'advanced git'
     cherry pick
     interactive add
-    interactive rebase
-    reflog
+√   interactive rebase
+ √   reflog
     merge/rebase debate
 
     workflows - Atlassian has a good demo
@@ -47,11 +47,16 @@ Commands
     bisect
     blame
     apply
-    clone
+√   clone
     gitignore
 
-    hub repos
+ √   hub repos
     `recovery`
 
     Atlassian Tutorial
         https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+
+
+    other ways of including commits:
+        reset
+        cherry-pick
