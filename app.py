@@ -10,3 +10,7 @@ def hello_world():
 @app.route('/goodbye_world')
 def goodbye_world():
     return 'goodbye, World!'
+
+@app.route('/noisebridge')
+def noisebridge():
+    return 'noisebridge'
