@@ -12,5 +12,5 @@ def goodbye_world():
     return 'goodbye, World!'
 
 @app.route('/noisebridge')
-def goodbye_world():
+def noisebridge():
     return 'noisebridge'
